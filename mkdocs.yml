@@ -1,0 +1,7 @@
+site_name: "PMT Score Check 2026 — Apna Ghar Apni Chhat: What Happens After You Apply"
+site_description: "You applied for Apna Ghar Apni Chhat and your PMT Score Check is done — what happens next? How verification works, what the allotment list means, and what to do if your application is rejected."
+site_url: https://pmtscorecheck.readthedocs.io/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
